@@ -1,6 +1,11 @@
 npm i
 npm i @reduxjs/toolkit react-redux axios react-router-dom 
 npm install -D tailwindcss postcss autoprefixer
+
+//this are alredy config those are for if needed setup progect
 npx tailwindcss init -p
 npx shadcn@latest init
 npx shadcn@latest add button
+
+
+34min
